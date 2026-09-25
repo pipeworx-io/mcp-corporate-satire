@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/corporate-satire",
   "title": "Corporate Satire",
   "description": "Satirical generator: a joke tool that turns any announcement into a fabricated parody corporate…",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/corporate-satire",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-corporate-satire",
